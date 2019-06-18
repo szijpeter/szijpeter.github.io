@@ -1,8 +1,7 @@
 
-## ---
+---
 
 ## Personal information
----
 
 - Address: Budapest 1115 Ballagi Mór utca 12. 
 - E-mail: szijpeter@gmail.com
