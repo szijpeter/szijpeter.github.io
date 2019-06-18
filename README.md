@@ -7,8 +7,8 @@
 
 # Work experience
 
-## [BIG FISH Internet-technology Ltd., Budapest (Hungary)](https://bigfish.hu/en/)
-### 2014–Present
+## 2014–Present
+### [BIG FISH Internet-technology Ltd., Budapest (Hungary)](https://bigfish.hu/en/)
 
 _Senior mobile software developer_
 
