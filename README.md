@@ -9,7 +9,9 @@
 
 ## [BIG FISH Internet-technology Ltd., Budapest (Hungary)](https://bigfish.hu/en/)
 ### 2014–Present
-_Senior mobile software developer_ . 
+
+_Senior mobile software developer_
+
 Developing various mobile applications and libraries mostly on the Android platform.
 
 
