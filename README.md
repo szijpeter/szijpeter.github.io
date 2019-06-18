@@ -1,14 +1,15 @@
-## Personal information
+# Personal information
 
 - Address: Budapest 1115 Ballagi Mór utca 12. 
 - E-mail: szijpeter@gmail.com
 - Phone: +36205651265
 - Skype: szijpeter
 
-## Work experience
+# Work experience
 
-# 2014–Present: [BIG FISH Internet-technology Ltd., Budapest (Hungary)](https://bigfish.hu/en/)
-_Senior mobile software developer_
+## [BIG FISH Internet-technology Ltd., Budapest (Hungary)](https://bigfish.hu/en/)
+### 2014–Present
+_Senior mobile software developer_ . 
 Developing various mobile applications and libraries mostly on the Android platform.
 
 
