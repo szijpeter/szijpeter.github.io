@@ -10,8 +10,9 @@
 _Senior mobile software developer_
 
 Developing various mobile applications and libraries mostly on the Android platform, mostly for partner companies (Airside).
-https://play.google.com/store/apps/details?id=us.mobilepassport&hl=en&gl=US
-https://play.google.com/store/apps/details?id=com.airsidemobile.airside&hl=en&gl=US
+
+- https://play.google.com/store/apps/details?id=us.mobilepassport&hl=en&gl=US
+- https://play.google.com/store/apps/details?id=com.airsidemobile.airside&hl=en&gl=US
 
 ## 2014–2019
 ### [BIG FISH Internet-technology Ltd./Once Digital arts, Budapest (Hungary)](https://bigfish.hu/en/ // https://www.onceapps.com/en/)
@@ -19,9 +20,10 @@ https://play.google.com/store/apps/details?id=com.airsidemobile.airside&hl=en&gl
 _Senior mobile software developer_
 
 Developing various mobile applications and libraries mostly on the Android platform.
-https://play.google.com/store/apps/details?id=com.onceapps.bb.autumn.hu&hl=en&gl=US (and the rest of the BB apps)
-https://play.google.com/store/apps/details?id=com.onceapps.kpv&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.onceapps.borix&hl=en_US&gl=US
+
+- https://play.google.com/store/apps/details?id=com.onceapps.bb.autumn.hu&hl=en&gl=US (and the rest of the BB apps)
+- https://play.google.com/store/apps/details?id=com.onceapps.kpv&hl=en_US&gl=US
+- https://play.google.com/store/apps/details?id=com.onceapps.borix&hl=en_US&gl=US
 
 
 
