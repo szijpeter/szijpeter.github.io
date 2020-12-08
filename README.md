@@ -15,7 +15,7 @@ Developing various mobile applications and libraries mostly on the Android platf
 - https://play.google.com/store/apps/details?id=com.airsidemobile.airside&hl=en&gl=US
 
 ## 2014–2019
-### [BIG FISH Internet-technology Ltd./Once Digital arts, Budapest (Hungary)](https://bigfish.hu/en/ // https://www.onceapps.com/en/)
+### [BIG FISH Internet-technology Ltd., Budapest (Hungary)](https://bigfish.hu/en/) / [Once Digital arts, Budapest (Hungary)](https://www.onceapps.com/en/)   
 
 _Senior mobile software developer_
 
