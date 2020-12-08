@@ -4,7 +4,7 @@
 
 # Work experience
 
-## 2019–presen
+## 2019–present
 ### [mohemian services GmbH., Innsbruck (Austria)](https://mohemian.com)
 
 _Senior mobile software developer_
